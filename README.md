@@ -26,7 +26,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffde7a?style=flat&logo=Python&logoColor=%23ffde7a&labelColor=%2364a8e2&color=%23ffde7a">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2FC%2B%2B-%2364a8e2?style=flat&logo=C%2B%2B&logoColor=%2300599C">
-
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
   <br />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
     <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat&logo=Flask&logoColor=%23ffffff">
