@@ -35,6 +35,7 @@
   <br />
     <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-%23f3f6f4?style=flat&logo=mysql&logoColor=%234479A1">
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=%23dea6ff">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
   <br />
     <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas">
     <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-%2343B02A?style=flat&logo=selenium">
@@ -58,7 +59,8 @@
 
  <h4>I've used it a little bit</h4>
     <img alt="Static Badge" src="https://img.shields.io/badge/K3s-%23FFC61C?style=flat&logo=k3s">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
+    <img src="https://shields.io/badge/react-black?logo=react&style=flat"/>
  <h4>Human Language</h4>
     한국어</br>
     English</br>
