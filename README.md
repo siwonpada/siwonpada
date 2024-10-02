@@ -14,8 +14,9 @@
 
   <h3> 🗺️ My Experience 🗺️</h3>
 
-  - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~)
-  -  🎯 Backend/Infrastructure Developer at [InfoTeam](https://introduce.gistory.me/) (2022~)
+  - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~ )
+  - 🎯 Backend/Infrastructure Developer at [InfoTeam](https://introduce.gistory.me/) (2022~ )
+  - 🥽 Internship at Center for Photon Infomation Processing, GIST (2023, fall ~ )
  
 
 
