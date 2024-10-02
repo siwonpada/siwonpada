@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=siwonpada&rank_icon=github&theme=transparent">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=siwonpada&theme=transparent">
   </a>
   <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwonpada&layout=compact&theme=transparent">
