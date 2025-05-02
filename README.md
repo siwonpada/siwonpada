@@ -19,4 +19,5 @@
 
 - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~ )
 - 🎯 Backend/Infrastructure Developer at [Infoteam](https://introduce.gistory.me/) (2022~ )
-- 🥽 Internship at Center for Photon Infomation Processing, GIST (2023, fall)
+- 🥽 Internship at Center for Photon Infomation Processing, GIST (2024, fall)
+- 🥽 Internship at Meta-Evolutionary Machine Intelligence Laboratory (2025, spring ~)
