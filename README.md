@@ -9,7 +9,7 @@
 
 <h3> 🗺️ My Experience 🗺️</h3>
 
-- 🎒 Electrical Engineering and Computer Sciences at GIST (2022 - 2026)
+- 📕 Electrical Engineering and Computer Sciences at GIST (2022 - 2026)
 - 🎯 Backend/Infrastructure Developer at [Infoteam](https://introduce.gistory.me/) (2022 - 2026)
 - 🥽 Internship at Center for Photon Information Processing, GIST (2024, fall)
 - 🥽 Internship at Meta-Evolutionary Machine Intelligence Laboratory (2025, spring - 2025, fall)
